@@ -1,0 +1,17 @@
+{
+    "initial_nulls": 58,
+    "columns_checked": [
+        "FruitID",
+        "FruitName",
+        "Color",
+        "PricePerKg",
+        "ImportedDate"
+    ],
+    "completeness_passed": true,
+    "accuracy_issues": [],
+    "consistency_notes": [
+        "FruitName has limited unique values: ['Mango', 'Apple', 'Grapes', 'Orange', 'Unknown', 'Banana']",
+        "Color has limited unique values: ['Yellow', 'Red', 'Orange', 'Unknown', 'Green']"
+    ],
+    "remaining_nulls": 0
+}

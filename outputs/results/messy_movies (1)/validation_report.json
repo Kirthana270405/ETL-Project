@@ -1,0 +1,19 @@
+{
+    "initial_nulls": 103,
+    "columns_checked": [
+        "ID",
+        "movie title",
+        "GENRE",
+        "rating",
+        "release date",
+        "box-office",
+        "EXTRA"
+    ],
+    "completeness_passed": true,
+    "accuracy_issues": [],
+    "consistency_notes": [
+        "GENRE has limited unique values: ['Drama', 'Unknown', 'Thriller', 'Comedy', 'Action', 'Horror']",
+        "EXTRA has limited unique values: ['misc', 'extra', 'data', 'Unknown']"
+    ],
+    "remaining_nulls": 0
+}

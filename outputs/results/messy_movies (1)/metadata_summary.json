@@ -1,0 +1,61 @@
+{
+    "file_name": "messy_movies (1).xlsx",
+    "file_type": "xlsx",
+    "file_size_kb": 11.15,
+    "row_count": 100,
+    "column_count": 7,
+    "columns": {
+        "ID": {
+            "dtype": "int64",
+            "null_count": 0,
+            "mean": 50.5,
+            "median": 50.5,
+            "std_dev": 29.011491975882016,
+            "min": 1.0,
+            "max": 100.0,
+            "kurtosis": -1.2,
+            "skewness": 0.0,
+            "outliers_count": 0
+        },
+        "movie title": {
+            "dtype": "object",
+            "null_count": 9
+        },
+        "GENRE": {
+            "dtype": "object",
+            "null_count": 9
+        },
+        "rating": {
+            "dtype": "float64",
+            "null_count": 15,
+            "mean": 5.239999999999999,
+            "median": 4.6,
+            "std_dev": 2.706042620999652,
+            "min": 1.2,
+            "max": 9.9,
+            "kurtosis": -1.309758935025945,
+            "skewness": 0.28068960810538834,
+            "outliers_count": 0
+        },
+        "release date": {
+            "dtype": "object",
+            "null_count": 9
+        },
+        "box-office": {
+            "dtype": "float64",
+            "null_count": 34,
+            "mean": 539738751.8931818,
+            "median": 574081442.615,
+            "std_dev": 285866277.5053324,
+            "min": 20759025.86,
+            "max": 980417987.7,
+            "kurtosis": -1.0778658242686716,
+            "skewness": -0.2179494723430406,
+            "outliers_count": 0
+        },
+        "EXTRA": {
+            "dtype": "object",
+            "null_count": 27
+        }
+    }
+}

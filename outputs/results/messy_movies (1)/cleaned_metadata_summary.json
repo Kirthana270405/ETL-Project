@@ -1,0 +1,61 @@
+{
+    "file_name": "cleaned_data.csv",
+    "file_type": "csv",
+    "file_size_kb": 5.51,
+    "row_count": 100,
+    "column_count": 7,
+    "columns": {
+        "ID": {
+            "dtype": "int64",
+            "null_count": 0,
+            "mean": 50.5,
+            "median": 50.5,
+            "std_dev": 29.011491975882016,
+            "min": 1.0,
+            "max": 100.0,
+            "kurtosis": -1.2,
+            "skewness": 0.0,
+            "outliers_count": 0
+        },
+        "movie title": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "GENRE": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "rating": {
+            "dtype": "float64",
+            "null_count": 0,
+            "mean": 5.239999999999998,
+            "median": 5.24,
+            "std_dev": 2.4926234607681357,
+            "min": 1.2,
+            "max": 9.9,
+            "kurtosis": -0.9940035900402222,
+            "skewness": 0.3036248962433695,
+            "outliers_count": 0
+        },
+        "release date": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "box-office": {
+            "dtype": "float64",
+            "null_count": 0,
+            "mean": 539738751.8931818,
+            "median": 539738751.8931818,
+            "std_dev": 231633840.2720618,
+            "min": 20759025.86,
+            "max": 980417987.7,
+            "kurtosis": -0.04505060438683328,
+            "skewness": -0.26615014287811567,
+            "outliers_count": 2
+        },
+        "EXTRA": {
+            "dtype": "object",
+            "null_count": 0
+        }
+    }
+}

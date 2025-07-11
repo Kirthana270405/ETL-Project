@@ -1,0 +1,49 @@
+{
+    "file_name": "cleaned_data.csv",
+    "file_type": "csv",
+    "file_size_kb": 3.92,
+    "row_count": 100,
+    "column_count": 6,
+    "columns": {
+        "StudentID": {
+            "dtype": "int64",
+            "null_count": 0,
+            "mean": 50.5,
+            "median": 50.5,
+            "std_dev": 29.011491975882016,
+            "min": 1.0,
+            "max": 100.0,
+            "kurtosis": -1.2,
+            "skewness": 0.0,
+            "outliers_count": 0
+        },
+        "Name": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "Age": {
+            "dtype": "float64",
+            "null_count": 0,
+            "mean": 21.63380281690141,
+            "median": 21.633802816901408,
+            "std_dev": 1.2967670493177752,
+            "min": 19.0,
+            "max": 24.0,
+            "kurtosis": -0.2968888956885838,
+            "skewness": 0.07741718535028257,
+            "outliers_count": 16
+        },
+        "Gender": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "Grade": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "Enrollment Date": {
+            "dtype": "object",
+            "null_count": 0
+        }
+    }
+}

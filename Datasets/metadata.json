@@ -1,0 +1,8 @@
+{
+    "drop columns": ["Unnamed: 0", "Extra"],
+    "rename columns": {
+        "EmpName": "Employee Name",
+        "Dept": "Department",
+        "JoiningDate":"Joining Date"
+    }
+}

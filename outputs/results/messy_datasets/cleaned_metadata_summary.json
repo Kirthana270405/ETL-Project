@@ -1,0 +1,33 @@
+{
+    "file_name": "cleaned_data.csv",
+    "file_type": "csv",
+    "file_size_kb": 3.4,
+    "row_count": 100,
+    "column_count": 4,
+    "columns": {
+        "Employee Name": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "Department": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "Salary": {
+            "dtype": "float64",
+            "null_count": 0,
+            "mean": 56389.18250000001,
+            "median": 56389.18250000001,
+            "std_dev": 12968.281631756336,
+            "min": 31936.23,
+            "max": 79177.53,
+            "kurtosis": -1.1334591069299447,
+            "skewness": 0.011264243385713685,
+            "outliers_count": 0
+        },
+        "Joining Date": {
+            "dtype": "object",
+            "null_count": 0
+        }
+    }
+}

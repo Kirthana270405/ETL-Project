@@ -1,0 +1,49 @@
+{
+    "file_name": "messy_students.csv",
+    "file_type": "csv",
+    "file_size_kb": 2.85,
+    "row_count": 100,
+    "column_count": 6,
+    "columns": {
+        "StudentID": {
+            "dtype": "int64",
+            "null_count": 0,
+            "mean": 50.5,
+            "median": 50.5,
+            "std_dev": 29.011491975882016,
+            "min": 1.0,
+            "max": 100.0,
+            "kurtosis": -1.2,
+            "skewness": 0.0,
+            "outliers_count": 0
+        },
+        "Name": {
+            "dtype": "object",
+            "null_count": 18
+        },
+        "Age": {
+            "dtype": "float64",
+            "null_count": 29,
+            "mean": 21.633802816901408,
+            "median": 22.0,
+            "std_dev": 1.5421639399578235,
+            "min": 19.0,
+            "max": 24.0,
+            "kurtosis": -1.1055806721870032,
+            "skewness": 0.06564537507016996,
+            "outliers_count": 0
+        },
+        "Gender": {
+            "dtype": "object",
+            "null_count": 20
+        },
+        "Grade": {
+            "dtype": "object",
+            "null_count": 16
+        },
+        "Enrollment Date": {
+            "dtype": "object",
+            "null_count": 18
+        }
+    }
+}

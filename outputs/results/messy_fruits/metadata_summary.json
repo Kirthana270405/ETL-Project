@@ -1,0 +1,45 @@
+{
+    "file_name": "messy_fruits.csv",
+    "file_type": "csv",
+    "file_size_kb": 2.97,
+    "row_count": 100,
+    "column_count": 5,
+    "columns": {
+        "FruitID": {
+            "dtype": "int64",
+            "null_count": 0,
+            "mean": 50.5,
+            "median": 50.5,
+            "std_dev": 29.011491975882016,
+            "min": 1.0,
+            "max": 100.0,
+            "kurtosis": -1.2,
+            "skewness": 0.0,
+            "outliers_count": 0
+        },
+        "FruitName": {
+            "dtype": "object",
+            "null_count": 12
+        },
+        "Color": {
+            "dtype": "object",
+            "null_count": 20
+        },
+        "PricePerKg": {
+            "dtype": "float64",
+            "null_count": 16,
+            "mean": 64.77750000000002,
+            "median": 64.815,
+            "std_dev": 21.681937731558513,
+            "min": 30.76,
+            "max": 99.34,
+            "kurtosis": -1.3117994253398544,
+            "skewness": -0.09496054859988985,
+            "outliers_count": 0
+        },
+        "ImportedDate": {
+            "dtype": "object",
+            "null_count": 10
+        }
+    }
+}

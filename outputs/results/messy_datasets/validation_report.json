@@ -1,0 +1,15 @@
+{
+    "initial_nulls": 33,
+    "columns_checked": [
+        "Employee Name",
+        "Department",
+        "Salary",
+        "Joining Date"
+    ],
+    "completeness_passed": true,
+    "accuracy_issues": [],
+    "consistency_notes": [
+        "Department has limited unique values: ['Finance', 'IT', 'Marketing', 'Operations', 'Support', 'HR', 'Unknown', 'Sales']"
+    ],
+    "remaining_nulls": 0
+}

@@ -1,0 +1,45 @@
+{
+    "file_name": "cleaned_data.csv",
+    "file_type": "csv",
+    "file_size_kb": 3.56,
+    "row_count": 100,
+    "column_count": 5,
+    "columns": {
+        "FruitID": {
+            "dtype": "int64",
+            "null_count": 0,
+            "mean": 50.5,
+            "median": 50.5,
+            "std_dev": 29.011491975882016,
+            "min": 1.0,
+            "max": 100.0,
+            "kurtosis": -1.2,
+            "skewness": 0.0,
+            "outliers_count": 0
+        },
+        "FruitName": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "Color": {
+            "dtype": "object",
+            "null_count": 0
+        },
+        "PricePerKg": {
+            "dtype": "float64",
+            "null_count": 0,
+            "mean": 64.7775,
+            "median": 64.77750000000002,
+            "std_dev": 19.85269825566044,
+            "min": 30.76,
+            "max": 99.34,
+            "kurtosis": -0.9713367835430229,
+            "skewness": -0.10330712053204863,
+            "outliers_count": 0
+        },
+        "ImportedDate": {
+            "dtype": "object",
+            "null_count": 0
+        }
+    }
+}

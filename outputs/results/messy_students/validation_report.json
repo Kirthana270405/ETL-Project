@@ -1,0 +1,18 @@
+{
+    "initial_nulls": 101,
+    "columns_checked": [
+        "StudentID",
+        "Name",
+        "Age",
+        "Gender",
+        "Grade",
+        "Enrollment Date"
+    ],
+    "completeness_passed": true,
+    "accuracy_issues": [],
+    "consistency_notes": [
+        "Gender has limited unique values: ['Male', 'Female', 'Unknown']",
+        "Grade has limited unique values: ['B', 'A', 'C', 'Unknown', 'D']"
+    ],
+    "remaining_nulls": 0
+}

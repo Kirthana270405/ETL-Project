@@ -1,0 +1,33 @@
+{
+    "file_name": "messy_datasets.csv",
+    "file_type": "csv",
+    "file_size_kb": 3.07,
+    "row_count": 100,
+    "column_count": 4,
+    "columns": {
+        "Employee Name": {
+            "dtype": "object",
+            "null_count": 8
+        },
+        "Department": {
+            "dtype": "object",
+            "null_count": 10
+        },
+        "Salary": {
+            "dtype": "float64",
+            "null_count": 8,
+            "mean": 56389.18250000001,
+            "median": 55112.935,
+            "std_dev": 13526.309942281485,
+            "min": 31936.23,
+            "max": 79177.53,
+            "kurtosis": -1.290586793653594,
+            "skewness": 0.01081873587319607,
+            "outliers_count": 0
+        },
+        "Joining Date": {
+            "dtype": "object",
+            "null_count": 7
+        }
+    }
+}
